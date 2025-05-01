@@ -1,4 +1,18 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Angelo garcia
+* Created on: may 2025
 * This file contains the CSS for index.html
 */
+body {
+    background-color: LightGreen;
+}
+
+h1 {
+    background-color: #e5a861;
+    color: hsl(0, 0%, 0%);
+    padding: 40px;
+    text-align: center;
+}
+
+p {
+    background-color: #fff700;
+}
